@@ -1,0 +1,15 @@
+{
+  "name": "assignment-coins",
+  "version": "1.0.0",
+  "description": "exchange a dollar with various lesser coins...",
+  "main": "subset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "algorithm"
+  ],
+  "author": "Cem Gencer",
+  "license": "ISC"
+}
